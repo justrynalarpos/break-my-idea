@@ -13,7 +13,7 @@ A Codex skill for testing an idea before you build it. It picks the assumption m
 Paste this into a Codex chat.
 
 ```text
-$skill-installer Install the break-my-idea skill from https://github.com/justrynalarpos/break-my-idea. Use branch main, path `.`, and install it as `break-my-idea`.
+$skill-installer Install the break-my-idea skill from https://github.com/justrynalarpos/break-my-idea
 ```
 
 ## How to use it
